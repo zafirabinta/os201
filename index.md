@@ -12,7 +12,6 @@ Github ini dibuat untuk memenuhi ketentuan pelaksanaan UAS Sistem Operasi 2020.
 Berikut ini adalah beberapa halaman seputar Sistem Operasi : 
 
 * [Serba-serbi Sistem Operasi](URLs/)
-.
-.
-.
+
+
 | A 1806205155 ZAFIRA BINTA FELIANDRA |
