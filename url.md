@@ -14,6 +14,5 @@ Berikut ini adalah beberapa halaman yang saya gunakan untuk mempelajari mengenai
 * [BASH](https://programminghistorian.org/en/lessons/intro-to-bash)
 * [GnuPG](gnupg.org/documentation/manpage.html)
 * [FUSE](https://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/html/index.html)
-
-Kembali ke halaman awal :
-* [Zafira](../)
+<br>
+* [Kembali](../)
